@@ -2,7 +2,7 @@
 
 
 ## ASCII-to-Decimal Converter
-The ASCII-to-decimal converter ([ascii-to-decimal.py](https://github.com/trife0907/CS-240/blob/main/Assignment1/ascii_to_decimal.py)) allows users to input a string (ex. your name) and return a space-delimited integer list of the ASCII decimal values of each character in the input string.
+The ASCII-to-decimal converter ([hw1_1_p1.py](https://github.com/JoshThinh/Converter/blob/main/hw_1_p1.py)) Converts a string into an integer list of ASCII deciaml values of each character in the input string along with delimiters separating each decimal value. 
 
 ### Examples
 <img width="647" height="76" alt="Screenshot 2026-09-04 133729" src="https://github.com/user-attachments/assets/89b0c97a-0d81-46aa-9343-e568fc1bd209" />
