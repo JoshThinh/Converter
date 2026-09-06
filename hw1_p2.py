@@ -6,7 +6,7 @@ text = input("Number: ")
 #User enters the base value that the number is in
 base = int(input("What is base of number (2, 8, 10, 16): "))
 
-#creates a variable to store the text and base into a tuple
+#converts to int
 number = int(text, base)
 
 #prints out the number in different bases
