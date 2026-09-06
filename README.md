@@ -37,7 +37,7 @@ pip install pillow
 ### Examples
 Input: 
 
-<img width="134" height="126" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/smiley.png" />
+<img width="134" height="126" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/smileyscrenshot.png" />
 
 
 Output:
@@ -59,7 +59,7 @@ Input txt:
 
 Output image:
 
-<img width="118" height="119" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/smiley2.png" />
+<img width="118" height="119" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/smileyscreenshot2.png" />
 
 ## License
 
