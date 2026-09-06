@@ -42,7 +42,7 @@ Input:
 
 Output:
 
-<img width="137" height="122" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/awesome_picture.txt" />
+<img width="137" height="122" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/awesomepicture.png" />
 
 ## Image Writer
 The image writer ([hw1_p4.py](https://github.com/JoshThinh/Converter/blob/main/hw1_p4.py)) reads pixel values from a text file and then outputs a image
@@ -54,7 +54,7 @@ pip install pillow
 ### Examples
 Input txt:
 
-<img width="125" height="108" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/awesome_picture.txt" />
+<img width="125" height="108" alt="image" src="https://github.com/JoshThinh/Converter/blob/main/awesomepicture.png" />
 
 
 Output image:
