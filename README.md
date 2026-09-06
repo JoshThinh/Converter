@@ -5,7 +5,7 @@
 The ASCII-to-decimal converter ([hw1_1_p1.py](https://github.com/JoshThinh/Converter/blob/main/hw_1_p1.py)) Converts a string into an integer list of ASCII deciaml values of each character in the input string along with delimiters separating each decimal value. 
 
 ### Examples
-<img width="647" height="76" alt="https://github.com/JoshThinh/Converter/blob/main/hw1example.png" src="" />
+<img width="647" height="76" alt="Screenshot 2026-09-04 133729" src="https://github.com/JoshThinh/Converter/blob/main/hw1example.png" />
 
 ## Number-Base Converter
 The number-base-converter ([number_base_converter.py](https://github.com/trife0907/CS-240/blob/main/Assignment1/number_base_converter.py)) allows a user to convert any number to and from binary, decimal, octal, or hexadecimal.
