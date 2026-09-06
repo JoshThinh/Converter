@@ -46,6 +46,7 @@ Output:
 
 ## Image Writer
 The image writer ([hw1_p4.py](https://github.com/JoshThinh/Converter/blob/main/hw1_p4.py)) reads pixel values from a text file and then outputs a image
+
 Also requires the Pillow dependency:
 ```bash
 pip install pillow
